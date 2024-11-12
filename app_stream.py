@@ -174,7 +174,7 @@ st.markdown(
         """
         , unsafe_allow_html=True
     )
-st.markdown('<h1 class="glowing-title">Melody Craft 1.0</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="glowing-title">TuneGenie</h1>', unsafe_allow_html=True)
 
 
 
